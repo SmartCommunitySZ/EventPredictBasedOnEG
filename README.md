@@ -121,8 +121,4 @@ future event predict demo based on causal event graph that covers the full indus
 3,基于因果逻辑库,即历史因果,通过计算当前事件与历史事件的相似性，可以在定性的方式上做出一些方向性的预测，方向上包括两种，一种是积极信号，另一种是消极信号.    
 4,本项目所使用的因果事理图谱已经公开至开放知识图谱联盟(openkg),地址为:http://www.openkg.cn/dataset/causalgraph    
 
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，请联系我:   
-邮箱:lhy_in_blcu@126.com  
-csdn:https://blog.csdn.net/lhy2014  
-我的自然语言处理项目: https://liuhuanyong.github.io  
-刘焕勇，中国科学院软件研究所　　
+　
